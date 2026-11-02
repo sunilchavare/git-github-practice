@@ -1,2 +1,2 @@
 # git-github-practice
-git-github workflow practice
+Practicing Git & Github workflow speed in wsl
